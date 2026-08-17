@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dobbba.github.io/confesso-link/sitemap.xml
